@@ -1,4 +1,5 @@
 <template>
+  <nuxt-link to="/">ホーム</nuxt-link>
   <div class="container">
         <div class="golden-retriever-info">
       <img src="https://www.min-inuzukan.com/images/detailMain_golden-retriever.png"

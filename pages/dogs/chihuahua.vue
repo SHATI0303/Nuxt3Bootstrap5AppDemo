@@ -1,4 +1,5 @@
 <template>
+  <nuxt-link to="/">ホーム</nuxt-link>
   <div class="container">
     <div class="chihuahua-info">
       <img src="https://www.pets-station.info/img/subimg/chihuahua_howto.jpg"

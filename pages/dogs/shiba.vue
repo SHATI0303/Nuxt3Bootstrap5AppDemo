@@ -1,4 +1,5 @@
 <template>
+  <nuxt-link to="/">ホーム</nuxt-link>
   <div class="container">
     <div class="shiba-info">
       <img src="https://www.min-inuzukan.com/images/typeContent/shiba/image_1.jpg"
