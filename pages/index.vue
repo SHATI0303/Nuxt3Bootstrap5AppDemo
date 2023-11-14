@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-     <h1 class="page-title" style="text-align: center;">人気な犬の図鑑</h1>
+     <MyComponent title="人気な犬図鑑" />
      <ul style="list-style: none; display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 2cm;">
   <li>
     <div style="text-align: center;">
@@ -136,6 +136,8 @@
       </li>
     </ul>
   </div>
+  </template>
+
   <style>
    
     body {
@@ -146,4 +148,5 @@
     margin-top: 40px;
     }
   </style>
-</template>
+
+

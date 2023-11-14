@@ -1,8 +1,7 @@
 <template>
   <div>
-    <AppHeader />
-    <AppAside />
+    <Mycomponent />
     <slot />
-    <AppFooter />
+
   </div>
 </template>
