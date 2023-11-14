@@ -1,6 +1,7 @@
 <template>
   <div class="container">
      <Mycomponent title="人気な犬図鑑" />
+
      <ul style="list-style: none; display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 2cm;">
   <li>
     <div style="text-align: center;">
