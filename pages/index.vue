@@ -6,7 +6,7 @@
   <li>
     <div style="text-align: center;">
   <nuxt-link to="/dogs/toy-poodle">
-    <img class="photo" src="https://www.min-inuzukan.com/images/dog_img_toy-poodle.jpg" 
+    <img class="photo" src="~/assets/toy.jpg" 
       alt="トイプードル"
       style="border-radius: 50%;"
       width="129"
@@ -20,7 +20,7 @@
   <li>
     <div style="text-align: center;">
   <nuxt-link to="/dogs/chihuahua">
-    <img class="photo" src="https://www.min-inuzukan.com/images/dog_img_chihuahua.jpg" 
+    <img class="photo" src="~/assets/tiwawa.jpg" 
       alt="チワワ"
       style="border-radius: 50%;"
       width="129"
@@ -35,7 +35,7 @@
   <li>
     <div style="text-align: center;">
       <nuxt-link to="/dogs/shiba">
-      <img class="photo" src="https://www.min-inuzukan.com/images/dog_img_shiba.jpg" 
+      <img class="photo" src="~/assets/shiba.jpg" 
         alt="柴犬"
         style="border-radius: 50%;"
         width="129"
@@ -52,7 +52,7 @@
 <ul style="list-style: none; display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 2cm;">
   <li>
     <div style="text-align: center;"><nuxt-link to="/dogs/miniature-dachshund">
-      <img class="photo" src="https://www.min-inuzukan.com/images/dog_img_miniature-dachshund.jpg" 
+      <img class="photo" src="~/assets/miniature-dachshund.jpg" 
         alt="ミニチュア・ダックスフンド"
         style="border-radius: 50%;"
         width="129"
@@ -65,7 +65,7 @@
   </li>
   <li>
     <div style="text-align: center;"><nuxt-link to="/dogs/pomeranian">
-      <img class="photo" src="https://www.min-inuzukan.com/images/dog_img_pomeranian.jpg" 
+      <img class="photo" src="~/assets/pomeranian.jpg" 
         alt="ポメラニアン"
         style="border-radius: 50%;"
         width="129"
@@ -79,7 +79,7 @@
   <li>
     <div style="text-align: center;">
       <nuxt-link to="/dogs/miniature-schnauzer">
-      <img class="photo" src="https://www.ps1shop.com/wp-content/uploads/2023/02/416132B5-DF77-461F-8C41-9D75FF5861EF-scaled.jpeg" 
+      <img class="photo" src="~/assets/min.jpeg" 
         alt="ミニチュア・シュナウザー"
         style="border-radius: 50%;"
         width="129"
@@ -95,7 +95,7 @@
       <li>
         <div style="text-align: center;">
           <nuxt-link to="/dogs/french-bulldog">
-      <img class="photo" src="https://www.min-inuzukan.com/images/dog_img_french-bulldog.jpg" 
+      <img class="photo" src="~/assets/french.jpg"
         alt="フレンチ・ブルドッグ"
         style="border-radius: 50%;"
         width="129"
@@ -109,7 +109,7 @@
       <li>
         <div style="text-align: center;">
           <nuxt-link to="/dogs/yorkshire-terrier">
-      <img class="photo" src="https://www.petsfan.jp/info/assets_c/2023/07/P7141775-thumb-640xauto-7132.jpg" 
+      <img class="photo" src="~/assets/yo-ku.jpg" 
         alt="ヨークシャー・テリア"
         style="border-radius: 50%;"
         width="129"
@@ -123,7 +123,7 @@
       <li>
         <div style="text-align: center;">
           <nuxt-link to="/dogs/golden-retriever">
-         <img class="photo" src="https://www.min-inuzukan.com/images/dog_img_golden.jpg" 
+         <img class="photo" src="~/assets/golden.jpg" 
          alt="ゴールデン・レトリバー"
          style="border-radius: 50%;"
          width="129"
