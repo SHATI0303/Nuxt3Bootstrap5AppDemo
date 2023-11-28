@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <h1 style="text-align: center;">{{ title }}</h1>
+  <div class="container">
+    <h1 class="text-center">{{ title }}</h1>
   </div>
 </template>
 
