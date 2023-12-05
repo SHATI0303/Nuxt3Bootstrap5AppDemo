@@ -32,7 +32,7 @@
       </tr>
       <tr>
         <th>体重</th>
-        <td>26cm～31cm</td>
+        <td>26kg～31kg</td>
       </tr>
     </table>
     <h3>フレンチブルドッグの特徴</h3>
