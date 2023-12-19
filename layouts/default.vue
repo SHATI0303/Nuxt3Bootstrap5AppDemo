@@ -9,8 +9,7 @@
 body {
   background-color: #f5f5dc;
  }
-    </style>
-<style>
+
 table {
   border-collapse: collapse;
   width: 50%;
