@@ -1,0 +1,11 @@
+// DogDetailsDisplay.composable.js
+
+export default function useDogDetailsDisplay(dog) {
+  // 犬の詳細情報を整形して表示するロジックを書く
+  return {
+    formattedName: dog.name.toUpperCase(),
+    formattedBreed: `Breed: ${dog.breed}`,
+    formattedDescription: dog.description,
+    // 他にも必要な情報や処理を追加できる
+  };
+}
